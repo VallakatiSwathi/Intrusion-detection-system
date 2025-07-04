@@ -11,3 +11,10 @@ blocking of unauthorized IPs.
 log files.
 ◦ Applied system resource monitoring using the psutil library to track and display CPU and memory usage,
 simulating host-level anomaly detection.
+
+Let me highlight some of the key features of our IDS project:
+IP Address Monitoring: Our system can track and analyze incoming IP addresses to determine if they are authorized or suspicious.
+
+System Resource Monitoring: It continuously monitors CPU and memory usage, alerting users to abnormal activity that may indicate an intrusion or system issue.
+
+Blocking Suspicious IP Address: Our IDS also blocks the unauthorised IP addresses thereby preventing the malicious activities.
